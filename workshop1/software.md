@@ -15,7 +15,7 @@ Een ['quick reference'](https://connectivity-staging.s3.us-east-2.amazonaws.com/
 
 # Syntax highlight lijsten
 Voor gebruikers van Notepad++ levert Laird een bestand met woorden voor syntax highlights. Dit is onderdeel van het archief met de firmware upgrade. Bij het downloaden wordt je gevraagd je gegevens in te vullen.
-De download is helaas niet rechtstreeks te linken, ga naar de [product pagina](https://www.lairdconnect.com/wireless-modules/lorawan-solutions/sentrius-rm1xx-lora-ble-module) en download het bestand "RM186 PE UE 110.6.1.0-r1.zip". Pak het bestand uit en kopieer het bestand "smartBASIC(notepad++).xml" naar de Notepad++ installatie folder.
+De download is helaas niet rechtstreeks te linken, ga naar de [product pagina](https://www.lairdconnect.com/wireless-modules/lorawan-solutions/sentrius-rm1xx-lora-ble-module) en download het bestand "RM186 PE EU 110.6.1.0-r1.zip". Pak het bestand uit en kopieer het bestand "smartBASIC(notepad++).xml" naar de Notepad++ installatie folder.
 Start nu Notepad++, kies in het menu "Language", "Define your Language". In de nieuwe dialoog klik op "Import..." en selecteer het bestand "smartBASIC(notepad++).xml".
 Sluit en herstart Notepad++ en kies nu "Language","smartBASIC" in het menu.
 
